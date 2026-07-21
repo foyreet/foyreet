@@ -16,5 +16,7 @@ I am an Applied Mathematics student at NUST MISIS with a strong focus on backend
 ## Classic ML
 * [Predicting Road Accident Risk](https://github.com/foyreet/Predicting-Road-Accident-Risk) - Предсказание вероятности ДТП с использованием CatBoost и продвинутого Feature Engineering
 * [Regression with an Insurance Dataset](https://github.com/foyreet/Regression-with-an-Insurance-Dataset) - Предсказание стоимости страховки с помощью `RandomForestRegressor` и Feature Engineering
-* 
+* [Spaceship Titanic](https://github.com/foyreet/Spaceship-Titanic) - Предсказание вероятности переноса пассажиров в пространственно-временную аномалию с использованием стекинг-ансамбля моделей (Random Forest, Gradient Boosting, Logistic Regression
+  
+
 
