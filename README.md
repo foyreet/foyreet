@@ -24,6 +24,10 @@
 * [Classification_image_CIFAR_10](https://github.com/foyreet/Classification_image_CIFAR_10) - Многоклассовая классификация изображений: обучение кастомной CNN с нуля с использованием BatchNorm, аугментации и SGD+StepLR
 * [Classification_simpsons](https://github.com/foyreet/Classification_simpsons) - Многоклассовая классификация изображений симпсонов
 * [MLP_Binary_Classification](https://github.com/foyreet/MLP_Binary_Classification) - Реализовал и обучил полносвязную нейросеть (MLP) для задачи нелинейной бинарной классификации
+## NLP
+* [LLM_architecture_transformer](https://github.com/foyreet/LLM_transformer) - Реализовал архитектуру GPT-2 с нуля на PyTorch, написав модули полносвязных слоев и Masked Self-Attention
+* [Neural_machine_translate](https://github.com/foyreet/Neural_machine_translate) - Разработал и обучил рекуррентную модель (GRU) для машинного перевода. Реализовал механизм внимания (Scaled Dot-Product Attention)
+* [Machine_translate_Word_embeddings](https://github.com/foyreet/Machine_translate_Word_embeddings) - Построил систему машинного перевода без использования параллельных данных, применяя сингулярное разложение (SVD) для выравнивания многоязычных пространств эмбеддингов. Обучал модели Word2Vec (через библиотеку Gensim), вычислял эмбеддинги фраз и визуализировал векторные пространства с использованием алгоритмов понижения размерности PCA и t-SNE.
 ## Recsys
 * [Recommendation_films](https://github.com/foyreet/Recommendation_films) - Система рекомендаций фильмов
 ## Agents
