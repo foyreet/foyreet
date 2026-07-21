@@ -2,15 +2,15 @@
 
 **Machine Learning / Software Engineer**
 
-I am an Applied Mathematics student at NUST MISIS with a strong focus on backend algorithm design and data science practices. I am deeply interested in computer vision, NLP, and recommendation systems, actively studying core computer science frameworks and participating in professional ML communities.
+Глубоко интересуюсь компьютерным зрением, обработкой естественного языка (NLP) и рекомендательными системами, активно изучаю ключевые фреймворки Computer Science и участвую в профессиональных ML-сообществах
 
 ### Experience & Research
-* **Skoltech** — Research and Engineering Intern (Developed a magnetometer calibration pipeline)
-* **AI Safety Research** — Co-authored projects focused on active inference and reward hacking (in collaboration with PIBBSS, Timaeus, and Apart Research)
+* **Skoltech** — Инженер-исследователь, стажер (Разработал пайплайн калибровки магнитометра)
+* **AI Safety Research** — Выступал соавтором исследовательских проектов по active inference и reward hacking (совместно с PIBBSS, Timaeus и Apart Research)
 
 ### Education
-* **NUST MISIS** — Bachelor's Degree in Applied Mathematics
-* **Independent University of Moscow** — Additional advanced mathematics coursework
+* **NUST MISIS** — 4 курс Прикладная математика
+* **Independent University of Moscow** 
 
 ### Projects
 ## Classic ML
@@ -24,8 +24,13 @@ I am an Applied Mathematics student at NUST MISIS with a strong focus on backend
 * [Classification_image_CIFAR_10](https://github.com/foyreet/Classification_image_CIFAR_10) - Многоклассовая классификация изображений: обучение кастомной CNN с нуля с использованием BatchNorm, аугментации и SGD+StepLR
 * [Classification_simpsons](https://github.com/foyreet/Classification_simpsons) - Многоклассовая классификация изображений симпсонов
 * [MLP_Binary_Classification](https://github.com/foyreet/MLP_Binary_Classification) - Реализовал и обучил полносвязную нейросеть (MLP) для задачи нелинейной бинарной классификации
+## Recsys
+* [Recommendation_films](https://github.com/foyreet/Recommendation_films) - Система рекомендаций фильмов
+## Agents
+* [Mail_sorting](https://github.com/foyreet/Mail_sorting) - Агент на базе LangGraph и локальной модели Qwen2.5-3B для автоматической фильтрации спама и обработки входящей почты
+* [Multimodal agent](https://github.com/foyreet/Multimodal_agent) - Мультимодальный ИИ-агент (LangGraph, BLIP-2) для автономного анализа документов и извлечения данных
 
-  
+
   
 
 
