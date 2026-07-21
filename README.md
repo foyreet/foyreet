@@ -28,6 +28,8 @@
 * [LLM_architecture_transformer](https://github.com/foyreet/LLM_transformer) - Реализовал архитектуру GPT-2 с нуля на PyTorch, написав модули полносвязных слоев и Masked Self-Attention
 * [Neural_machine_translate](https://github.com/foyreet/Neural_machine_translate) - Разработал и обучил рекуррентную модель (GRU) для машинного перевода. Реализовал механизм внимания (Scaled Dot-Product Attention)
 * [Machine_translate_Word_embeddings](https://github.com/foyreet/Machine_translate_Word_embeddings) - Построил систему машинного перевода без использования параллельных данных, применяя сингулярное разложение (SVD) для выравнивания многоязычных пространств эмбеддингов. Обучал модели Word2Vec (через библиотеку Gensim), вычислял эмбеддинги фраз и визуализировал векторные пространства с использованием алгоритмов понижения размерности PCA и t-SNE.
+* [Probability_Language_modeling](https://github.com/foyreet/Neural_machine_translate) - Разработал классические N-граммные языковые модели на датасете научных статей. Написал алгоритмы сглаживания (Laplace, Kneser-Ney) для обработки неизвестных слов и реализовал расчет метрики перплексии (Perplexity) для оценки качества генерации текста
+
 ## Recsys
 * [Recommendation_films](https://github.com/foyreet/Recommendation_films) - Система рекомендаций фильмов
 ## Agents
