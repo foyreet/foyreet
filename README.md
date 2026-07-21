@@ -1,6 +1,6 @@
 # Hi, I'm Grigoriy 👋
 
-**Machine Learning / Software Engineer**
+**Machine Learning Engineer**
 
 Глубоко интересуюсь компьютерным зрением, обработкой естественного языка (NLP) и рекомендательными системами, активно изучаю ключевые фреймворки Computer Science и участвую в профессиональных ML-сообществах
 
