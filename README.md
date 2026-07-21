@@ -13,6 +13,8 @@
 * **Independent University of Moscow** 
 
 ### Projects
+## Article
+* [Active Inference: a research direction for safer AI agents](https://apartresearch.com/project/rl-vs-active-inference-with-respect-to-reward-hacking-8h3s) - Исследовал фундаментальные уязвимости Reinforcement Learning (в частности, reward hacking) и анализировал альтернативный подход на основе минимизации ожидаемой свободной энергии (EFE)
 ## Classic ML
 * [Predicting Road Accident Risk](https://github.com/foyreet/Predicting-Road-Accident-Risk) - Предсказание вероятности ДТП с использованием CatBoost и продвинутого Feature Engineering
 * [Regression with an Insurance Dataset](https://github.com/foyreet/Regression-with-an-Insurance-Dataset) - Предсказание стоимости страховки с помощью `RandomForestRegressor` и Feature Engineering
